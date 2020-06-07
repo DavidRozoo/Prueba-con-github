@@ -10,9 +10,20 @@ body{
 
 .cajas{
     width: 70%;
-    height: 60px;
+    height: 200px;
     border-radius: 8px;
     border: 2px solid #ccc;
     box-shadow: 0px 0px 3px black;
     padding: 10px;
+    margin-bottom: 20px;
+}
+
+#formularios{
+    padding: 20px;
+    background-color: beige;
+}
+
+#formularios input{
+    width: 100%;
+    margin-bottom: 20px;
 }
